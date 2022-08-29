@@ -1,0 +1,9 @@
+He creado esta plantilla con javascript para leer los 
+documentos data.txt y data1.txt.
+
+Si quieres crear un blog muy sencillo y fácilmente accesible
+en teléfonos móviles sobretodo, que es lo que tienen todos, esta es una opción muy simple.
+
+Solo escribe todo lo que quieras en data.txt y luego vas renovando pasando las entradas antiguas a data1.txt
+
+
