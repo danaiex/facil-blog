@@ -1,10 +1,25 @@
-He creado esta plantilla con javascript para leer los 
-documentos data.txt y data1.txt.
+<h2>Muñeira de sabaxans</h2>
+<br>
+chorus
+<br>
+do re mi fa. fa mi_.
+<br>
+do re mi fa. sol fa mi re mi_.
+<br>
+do re mi. mi re do si do re. fa mi re do_.
+<br>
 
-Si quieres crear un blog muy sencillo y fácilmente accesible
-en teléfonos móviles sobretodo, que es lo que tienen todos, esta es una opción muy simple.
+verse
+<br>
 
-Solo escribe todo lo que quieras en data.txt y luego vas renovando pasando las entradas antiguas a data1.txt
-Repositorio público para subir https://github.com/danaiex/facil-blog
-
-
+sol sol. la sol fa mi fa fa_.
+<br>
+sol do do la. sol fa sol sol_.
+<br>
+sol sol. la sol fa mi fa fa_.
+<br>
+sol sol. la sol fa mi re mi fa re_.
+<br>
+sol fa mi re do do_.
+<br>
+<p> 4 septiembre 2022</p>
