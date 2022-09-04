@@ -1,1 +1,27 @@
-antiguas
+He creado esta plantilla con javascript para leer los 
+documentos data.txt y data1.txt.
+<br>
+Si quieres crear un blog muy sencillo y fácilmente accesible
+en teléfonos móviles sobretodo, que es lo que tienen todos, esta es una opción muy simple.
+<br>
+Solo escribe todo lo que quieras en data.txt y luego vas renovando pasando las entradas antiguas a data1.txt
+
+<br>
+<h2>Algunas instrucciones</h2>
+<br>
+<h3>Separar Los párrafos</h3>
+<br>
+Ponga comando:  br entre < > para separar Los párrafos
+<br>
+<h3>Letra más grande para el título</h3>
+<br>
+Y ponga h1, h2 ó h3 entre < >  y < /   > para tener una letra más grande como el título del blog siguiente.
+<br>
+
+< aqui >Muñeira de sabaxans< / aqui  >
+<br>
+
+<p>sin espacio entre < y / </p>
+<br>
+
+<p> 29 agosto 2022</p>
