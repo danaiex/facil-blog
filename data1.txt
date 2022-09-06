@@ -1,10 +1,44 @@
+
+<h2>Muñeira de sabaxans</h2>
+<br>
+chorus
+<br>
+do re mi fa. fa mi_.
+<br>
+do re mi fa. sol fa mi re mi_.
+<br>
+do re mi. mi re do si do re. fa mi re do_.
+<br>
+
+verse
+<br>
+
+sol sol. la sol fa mi fa fa_.
+<br>
+sol si si la. sol fa sol sol_.
+<br>
+sol sol. la sol fa mi fa fa_.
+<br>
+sol si si la. sol fa sol sol_.
+<br>
+sol sol. la sol fa mi re mi fa re_.
+<br>
+sol fa mi re do do_.
+<br>
+<p> 4 septiembre 2022</p>
+<br>
+∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
+
+<br>
 He creado esta plantilla con javascript para leer los 
-documentos data.txt y data1.txt.
+documentos data.txt y data1.txt. que podeis bajar del repositorio: tal
 <br>
 Si quieres crear un blog muy sencillo y fácilmente accesible
 en teléfonos móviles sobretodo, que es lo que tienen todos, esta es una opción muy simple.
 <br>
-Solo escribe todo lo que quieras en data.txt y luego vas renovando pasando las entradas antiguas a data1.txt
+Para desplegar la web, solo sube esta carpeta a una cuenta de github.com y luego despliega la web en un servidor como netlify.com o vercel.com
+Puedes ir editando todo lo que quieras en data.txt y luego vas 
+renovando pasando las entradas antiguas a data1.txt, desde la cuenta de github.
 
 <br>
 <h2>Algunas instrucciones</h2>
@@ -22,6 +56,4 @@ Y ponga h1, h2 ó h3 entre < >  y < /   > para tener una letra más grande como 
 <br>
 
 <p>sin espacio entre < y / </p>
-<br>
-
 <p> 29 agosto 2022</p>
